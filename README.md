@@ -191,9 +191,13 @@ Creado con ❤️ y ☕ por:
 
 ---
 
+## 📝 Contributing
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
 ## 📄 Licencia
 
 Este proyecto fue desarrollado como parte del curso de Programación I.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
